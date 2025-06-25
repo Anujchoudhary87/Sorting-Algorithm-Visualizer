@@ -2,6 +2,10 @@
 
 
 Sorting Algorithm Visualizer is an interactive and visually engaging web application designed to demystify the working of popular sorting algorithms through real-time, step-by-step animations. It serves as an educational tool for beginners and enthusiasts to intuitively understand how data is sorted, observe algorithm behavior, and compare performance visually. With a clean UI and dynamic controls, users can select algorithms like Bubble Sort, Merge Sort, Quick Sort, Insertion Sort, and more—watching each step unfold with colorful, animated transitions.
+
+
+![iamge alt](https://github.com/Anujchoudhary87/Sorting-Algorithm-Visualizer/blob/84f6b293f5241e9bf97f75b8fd0c586c01308734/Home%20Screen.png)
+
 ## 🚀 Features
 
 - Real-time visualization of sorting steps.
