@@ -45,6 +45,12 @@ Sorting Algorithm Visualizer is an interactive and visually engaging web applica
 
 - Linear Search: Simple search algorithm that checks each element.
 - Binary Search: Efficient algorithm for finding an item from a sorted list of items.
+
+## Example- (Bubble_Sort):
+
+![iamge alt](https://github.com/Anujchoudhary87/Sorting-Algorithm-Visualizer/blob/2c15c2a36e7a27141720ca8167d508de56eb6e04/Bubble_sort.png
+)
+
 ## 🧮 Algorithms Included
 
 | Algorithm      | Best Case  | Average Case | Worst Case | Space Complexity |
