@@ -36,6 +36,10 @@ Sorting Algorithm Visualizer is an interactive and visually engaging web applica
 
 - Visual animations using dynamic div elements
 
+![iamge alt](https://github.com/Anujchoudhary87/Sorting-Algorithm-Visualizer/blob/2c15c2a36e7a27141720ca8167d508de56eb6e04/Bubble_sort.png
+)
+
+
 
 ## Searching Algorithms
 
